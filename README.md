@@ -117,3 +117,5 @@ Mi respuesta: C) Una versión del repositorio que diverge del flujo principal de
 
 ![Punto 1](image.png)
 ![Punto 2](image-1.png)
+![Punto 3-4](image-2.png)
+![Punto 5](image-3.png)
